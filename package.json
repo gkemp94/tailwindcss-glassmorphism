@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcss-glassmorphism",
+  "version": "0.1.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc && tailwindcss -i docs/tailwind.css -o docs/index.css",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "George Kemp",
+  "license": "ISC",
+  "description": "TailwindCSS utilities for glassmorphism attributes, expanded and hidden",
+  "files": [
+    "dist",
+    "docs"
+  ],
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.5"
+  }
+}
