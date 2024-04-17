@@ -54,7 +54,7 @@ Once installed, you can use the glassmorphism utility classes just like any othe
 
 ## Documentation & Demo
 
-For a full demo and interactive documentation, visit: [Link to Documentation Page](#)
+For a full demo and interactive documentation, visit: [Link to Documentation Page](https://gkemp94.github.io/tailwindcss-glassmorphism/)
 
 ## Contributing
 

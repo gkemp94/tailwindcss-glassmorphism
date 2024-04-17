@@ -11,7 +11,7 @@
   ],
   "author": "George Kemp",
   "license": "ISC",
-  "description": "TailwindCSS utilities for glassmorphism attributes, expanded and hidden",
+  "description": "TailwindCSS utilities for glassmorphism",
   "files": [
     "dist",
     "docs"
